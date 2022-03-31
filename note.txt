@@ -1,0 +1,14 @@
+tsc -v
+
+tsc --init << create file >> "tsconfig.json"
+
+tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado
+
+tsc -w <<< monitorando -- compila o javascript automaticamente em tempo real
+
+Importante! CODE RUNNER: após a instalação do coderruner, para funcionar o typescript no coderunner instale o ts-node  "npm i -g ts-node".
+
+npm init -y
+
+dependencies:
+
