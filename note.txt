@@ -1,3 +1,5 @@
+git log --oneline
+
 tsc -v
 
 tsc --init << create file >> "tsconfig.json"
