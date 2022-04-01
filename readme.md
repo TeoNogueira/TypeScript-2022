@@ -3,7 +3,7 @@
 <img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
 
-## Tutorial typescript iniciante Season_01 `by:@Teonogueira` [RepoLink].
+## Tutorial typescript iniciante Season_01 `by:@TeoNogueira` [RepoLink].
 <br/><br/>
 ### Aprenda de forma dinâmica os primeiros passos.
 
@@ -15,31 +15,54 @@
 
 Instalação do [Typescript].
 
-use -g para instalar de forma global.
+use `-g` para instalar de forma global.
 
 * installe o coderunner
 
 ### Para executar o comando do coderunner(ctrl + alt + n) com ts instale:
-* npm i -g ts-node
+ ```sh 
+ npm i -g ts-node 
+```
 
 
 ## Outros:
 
-* tsc -v << "Version"
+* ``` tsc -v``` << "Version".
 
-* tsc --init << create file >> "tsconfig.json" instale logo após a instalação do ts
+* ``` tsc --init``` << create file >> "tsconfig.json" instale logo após a instalação do ts.
 
-* npm init -y
+* ``` npm init -y```
 
-* tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado
+* tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado.
 
-* tsc -w <<< monitorando -- compila o javascript automaticamente em tempo real
-
-
-
+* ``` tsc -w``` <<< monitorando -- compila o javascript automaticamente em tempo real.
+#
 <br/>
 
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#DEB885', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
+
+graph LR
+
+id1>Map Project]
+
+```
+
+
+
+
+```mermaid
+
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00f7e9', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
+
+graph LR
+
+A((Master)) -->|YourLocal| 1((Season_01)) --->|Next| 2((S_02))---> 3((S_03))
+
+
+```
+#
 
 [RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
 [Typescript]: https://www.npmjs.com/package/typescript
