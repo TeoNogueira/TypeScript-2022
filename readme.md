@@ -7,7 +7,7 @@
 <br/><br/>
 ### Aprenda de forma dinâmica os primeiros passos.
 
-*  Season_1:  `Numéricos`, `booleanos`, `strings`, funcões como `tipos`, `enums`, tipo `"Never"`, `objetos` e `tipos`, `desafios`, trasnformar `js` em `ts`, tipo `"NULL"`, `Union` `Types`, definindo tipos personalizados `(Alias)`.
+*  Season_1:  `Numéricos`, `booleanos`, `strings`, funcões como `tipos`, `enums`, tipo `"Never"`, `objetos` e `tipos`, `desafios`, transformar `js` em `ts`, tipo `"NULL"`, `Union` `Types`, definindo tipos personalizados `(Alias)`.
 
 <br/><br/>
 
