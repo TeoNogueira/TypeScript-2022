@@ -14,10 +14,9 @@ let localization: {map_01: string, map_cod: number} = {
 
 
  localization = {
+
     map_01: 'China',
     map_cod: 323223,
-  
-    
     
 }
 
