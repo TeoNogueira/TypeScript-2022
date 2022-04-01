@@ -3,7 +3,7 @@
 <img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
 
-## Tutorial typescript iniciante Season_01 `by:@Teonogueira` [RepoLink].
+## Tutorial typescript iniciante Season_01 `by:@TeoNogueira` [RepoLink].
 <br/><br/>
 ### Aprenda de forma dinâmica os primeiros passos.
 
@@ -27,15 +27,15 @@ use `-g` para instalar de forma global.
 
 ## Outros:
 
-* ``` tsc -v``` << "Version"
+* ``` tsc -v``` << "Version".
 
-* ``` tsc --init``` << create file >> "tsconfig.json" instale logo após a instalação do ts
+* ``` tsc --init``` << create file >> "tsconfig.json" instale logo após a instalação do ts.
 
 * ``` npm init -y```
 
-* tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado
+* tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado.
 
-* ``` tsc -w``` <<< monitorando -- compila o javascript automaticamente em tempo real
+* ``` tsc -w``` <<< monitorando -- compila o javascript automaticamente em tempo real.
 #
 <br/>
 
