@@ -9,6 +9,8 @@ let outTime:string = 'Ponto antes do tempo!'
 
 function pointAcl( b: number):any {
 
+  
+    
 let hour = aStr.hourFinish
 
 if(b >= hour) {
@@ -23,4 +25,4 @@ if(b >= hour) {
 }
 
 
-console.log(pointAcl(200))
+console.log(pointAcl(100).concat('.'))
