@@ -36,10 +36,20 @@ use `-g` para instalar de forma global.
 * tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado
 
 * ``` tsc -w``` <<< monitorando -- compila o javascript automaticamente em tempo real
-
-
-
+#
 <br/>
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#DEB885', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
+
+graph LR
+
+id1>Map Project]
+
+```
+
+
 
 
 ```mermaid
@@ -52,7 +62,7 @@ A((Master)) -->|YourLocal| 1((Season_01)) --->|Next| 2((S_02))---> 3((S_03))
 
 
 ```
-
+#
 
 [RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
 [Typescript]: https://www.npmjs.com/package/typescript
