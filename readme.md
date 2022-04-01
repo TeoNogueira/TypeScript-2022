@@ -1,6 +1,6 @@
 #  USING TYPES || #branch_01
 <br/><br/>
-<img src="https://nomadcoders.co/logos/typescript.png" title="Using types - Typescript 2022" align="right" width="95" height="95">
+<img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
 
 ## Tutorial typescript iniciante Season_01 `by:@Teonogueira` [RepoLink].
