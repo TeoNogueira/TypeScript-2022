@@ -5,9 +5,10 @@
 
 ## Tutorial typescript iniciante Season_01 `by:@TeoNogueira` [RepoLink].
 <br/><br/>
-### Aprenda de forma dinâmica os primeiros passos.
+### Vamos abordar sobre compilador.
 
-*  Season_1:  `Numéricos`, `booleanos`, `strings`, funcões como `tipos`, `enums`, tipo `"Never"`, `objetos` e `tipos`, `desafios`, transformar `js` em `ts`, tipo `"NULL"`, `Union` `Types`, definindo tipos personalizados `(Alias)`.
+
+# Text under construction 👷‍♂🧾 ....
 
 <br/><br/>
 
