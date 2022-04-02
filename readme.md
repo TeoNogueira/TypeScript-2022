@@ -71,9 +71,13 @@ use `-g` para instalar de forma global.
 
   ```mermaid
 
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#dcaab9', 'primaryTextColor': 'white'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#285570', 'primaryTextColor': 'white'}}}%%
 
-graph LR;
+flowchart LR;
+
+ A:::someclass --> 1
+    classDef someclass fill:#bd492e;
+    
 1(Season_01) --> 1A(Compiler_1A) 
 1(Season_01) --> 1B(Ts_Ecmascript_News_1B) 
 A((Master)) --> 1((Season_01_using_types)) -->|Next_Season| 2((S_02)) --> |Next_Season| 3((S_03))
