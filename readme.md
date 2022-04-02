@@ -76,12 +76,12 @@ use `-g` para instalar de forma global.
 graph LR
 1(Season_01) --> 1A(Compiler_1A) 
 1(Season_01) --> 1B(Ts_Ecmascript_News_1B) 
-A((Master)) --> 1((Season_01_using_types)) -->|Next_Seasons| 2((S_02)) --> |Next_Seasons| 3((S_03))
+A((Master)) --> 1((Season_01_using_types)) -->|Next_Season| 2((S_02)) --> |Next_Season| 3((S_03))
 2[Season_02_Class_Object]--> 2A(Mod_nameSpace 2A)
 
 3(Season_03_interfaces_generics_decorators) 
 4((Season_04_lib_Js_Ts)) --> 4A((TS + GULP 4A))
-A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Seasons|5(S_05)
+A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Season|5(S_05)
 
 
 5(Season_05) --> 5A(TS REACT 5A) 
