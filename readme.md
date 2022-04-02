@@ -1,4 +1,4 @@
-#  USING TYPES || #branch_01
+#  COMPILER || #branch_01_A
 <br/><br/>
 <img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
