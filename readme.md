@@ -51,7 +51,10 @@ use `-g` para instalar de forma global.
 * tsc e o nome do arquivo ts para criar uma réplica em js e poder ser executado.
 
 * ``` tsc -w``` <<< monitorando -- compila o javascript automaticamente em tempo real.
-#
+<br/>
+
+
+## Branch Map
 
 
 [RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
@@ -68,16 +71,38 @@ use `-g` para instalar de forma global.
 
   ```mermaid
 
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00f7e9', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00d4ec', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
 
 graph LR
+1(Season_01) --> 1A(Compiler_1A) 
+1(Season_01) --> 1B(Ts_Ecmascript_News_1B) 
+A((Master)) --> 1((Season_01_using_types)) -->|Next_Seasons| 2((S_02)) --> |Next_Seasons| 3((S_03))
+2[Season_02_Class_Object]--> 2A(Mod_nameSpace 2A)
 
-A((Master)) -->|HeadSeason01| 1((Season_01)) --->|Next_Seasons| 4((S_02))---> 5((S_03))
- 1((Season_01)) ---> |YourLocal| 3((Season_01_A))
-   1((Season_01)) ---> |step_2| 2[/S_01_B\]
+3(Season_03_interfaces_generics_decorators) 
+4((Season_04_lib_Js_Ts)) --> 4A((TS + GULP 4A))
+A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Seasons|5(S_05)
 
 
-```
+5(Season_05) --> 5A(TS REACT 5A) 
+5(Season_05_webpack) --> 5B(TS VUEJS 5B)
+
+
+
+     linkStyle 0 stroke-width:2px,fill:none,stroke:blue;
+        linkStyle 1 stroke-width:2px,fill:none,stroke:orange;
+        linkStyle 2 stroke-width:2px,fill:none,stroke:lime;
+        linkStyle 3 stroke-width:2px,fill:none,stroke:purple;
+        linkStyle 4 stroke-width:2px,fill:none,stroke:purple;
+          linkStyle 5 stroke-width:2px,fill:none,stroke:lime;
+          linkStyle 6 stroke-width:2px,fill:none,stroke:lime;
+          linkStyle 7 stroke-width:2px,fill:none,stroke:orange;
+          linkStyle 8 stroke-width:2px,fill:none,stroke:purple;
+          linkStyle 9 stroke-width:2px,fill:none,stroke:blue;
+          linkStyle 10 stroke-width:2px,fill:none,stroke:orange;
+
+
+ ```
 
 #
 
