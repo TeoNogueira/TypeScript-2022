@@ -1,6 +1,8 @@
 
 
-<img  src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif"  title="Using types - Typescript 2022"  align="right"  width="95"  height="95">
+
+
+<img  src="https://github.com/TeoNogueira/TypeScript-2022/blob/master/assets/gifs/ts_master.gif"  title="Using types - Typescript 2022"  align="right"  width="95"  height="95">
 
   
  
@@ -20,14 +22,13 @@ Para mais informações sobre `TS`acesse a documentação: [link_ts].
   
 ## Informações do nosso repositório
 
-### Objetivos:
-* Auxiliar a comunidade e todos aqueles que desejam aprender sobre a biblioteca.
-* 
+### Objetivo:
+* Contribuir no crescimento da comunidade e todos aqueles que desejam aprender sobre a biblioteca.
+
 ### OpenSource:
-* O repositório estará aberto para quem quiser adicionar informações mais aprofundadas o typescript.
+* O repositório estará aberto para quem quiser adicionar informações mais aprofundadas do typescript ou até melhorar a documentação, ficarei grato pelo auxílio de vocês.
 
-
-## Instalação do [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://www.npmjs.com/package/typescript/).
+## Instalação do [Typescript].
 
 use `-g` para instalar de forma global.
 
@@ -59,7 +60,12 @@ use `-g` para instalar de forma global.
 
 [Github]: https://github.com/TeoNogueira
 
+[Teo Nogueira]: https://github.com/TeoNogueira
+
 [link_ts]:https://www.typescriptlang.org/docs/
+
+[Typescript]:https://www.npmjs.com/package/typescript
+
   ```mermaid
 
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00f7e9', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
@@ -73,7 +79,14 @@ A((Master)) -->|HeadSeason01| 1((Season_01)) --->|Next_Seasons| 4((S_02))---> 5(
 
 ```
 
+#
 
-## <div align="center">`Adicione esse repositório na sua lista de favoritos!`</div>
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://www.typescriptlang.org/docs/) 
 
-### <div align="right">`@TeoNogueira`</div>
+
+
+### Development by
+
+Developer /  Autor :    [Teo Nogueira]
+
+
