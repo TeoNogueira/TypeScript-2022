@@ -1,4 +1,4 @@
-#  USING TYPES || #branch_01
+#  COMPILER || #branch_01_A
 <br/><br/>
 <img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
@@ -58,7 +58,9 @@ id1>Map Project]
 
 graph LR
 
-A((Master)) -->|YourLocal| 1((Season_01)) --->|Next| 2((S_02))---> 3((S_03))
+A((Master)) -->|HeadSeason01| 1((S01)) --->|Next_Seasons| 4((S_02))---> 5((S_03))
+ 1((Season_01)) ---> |YourLocal| 3((Season_01_A))
+   1((Season_01)) ---> |step_2| 2[/S_01_B\]
 
 
 ```
