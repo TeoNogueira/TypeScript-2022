@@ -106,6 +106,9 @@ A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Season|5(S_05)
           linkStyle 10 stroke-width:2px,fill:none,stroke:gray;
 
 
+
+click 1 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01"
+
  ```
 
 #
