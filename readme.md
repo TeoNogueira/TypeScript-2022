@@ -71,7 +71,7 @@ use `-g` para instalar de forma global.
 
   ```mermaid
 
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00d4ec', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#dcaab9', 'primaryTextColor': 'white'}}}%%
 
 graph LR
 1(Season_01) --> 1A(Compiler_1A) 
@@ -91,15 +91,15 @@ A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Season|5(S_05)
 
      linkStyle 0 stroke-width:2px,fill:none,stroke:blue;
         linkStyle 1 stroke-width:2px,fill:none,stroke:orange;
-        linkStyle 2 stroke-width:2px,fill:none,stroke:lime;
+        linkStyle 2 stroke-width:2px,fill:none,stroke:gray;
         linkStyle 3 stroke-width:2px,fill:none,stroke:purple;
         linkStyle 4 stroke-width:2px,fill:none,stroke:purple;
-          linkStyle 5 stroke-width:2px,fill:none,stroke:lime;
-          linkStyle 6 stroke-width:2px,fill:none,stroke:lime;
+          linkStyle 5 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 6 stroke-width:2px,fill:none,stroke:gray;
           linkStyle 7 stroke-width:2px,fill:none,stroke:orange;
           linkStyle 8 stroke-width:2px,fill:none,stroke:purple;
-          linkStyle 9 stroke-width:2px,fill:none,stroke:blue;
-          linkStyle 10 stroke-width:2px,fill:none,stroke:orange;
+          linkStyle 9 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 10 stroke-width:2px,fill:none,stroke:gray;
 
 
  ```
