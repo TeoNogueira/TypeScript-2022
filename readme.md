@@ -40,28 +40,72 @@ use `-g` para instalar de forma global.
 <br/>
 
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#DEB885', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
-
-graph LR
-
-id1>Map Project]
-
-```
+## Branch Map
 
 
+[RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
+
+[Teonogueira]: http://teonogueira.42web.io/
+
+[Github]: https://github.com/TeoNogueira
+
+[Teo Nogueira]: https://github.com/TeoNogueira
+
+[link_ts]:https://www.typescriptlang.org/docs/
+
+[Typescript]:https://www.npmjs.com/package/typescript
+
+  ```mermaid
+
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#285570', 'primaryTextColor': 'white', 'lineColor': '#D4EFDF'}}}%%
+
+flowchart LR;
+
+ A:::someclass
+    classDef someclass fill:#bd492e;
+    
+1(Season_01) --> 1A(Compiler_1A) 
+1(Season_01) --> 1B(Ts_Ecmascript_News_1B) 
+A((Master)) --> 1((Season_01_using_types)) -->|Next_Season| 2((S_02)) --> |Next_Season| 3((S_03))
+2[Season_02_Class_Object]--> 2A(Mod_nameSpace 2A)
+
+3(Season_03_interfaces_generics_decorators) 
+4((Season_04_lib_Js_Ts)) --> 4A((TS + GULP 4A))
+A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Season|5(S_05)
 
 
-```mermaid
-
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00f7e9', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
-
-graph LR
-
-A((Master)) -->|YourLocal| 1((Season_01)) --->|Next| 2((S_02))---> 3((S_03))
+5(Season_05) --> 5A(TS REACT 5A) 
+5(Season_05_webpack) --> 5B(TS VUEJS 5B)
 
 
-```
+
+     linkStyle 0 stroke-width:2px,fill:none,stroke:blue;
+        linkStyle 1 stroke-width:2px,fill:none,stroke:orange;
+        linkStyle 2 stroke-width:2px,fill:none,stroke:gray;
+        linkStyle 3 stroke-width:2px,fill:none,stroke:purple;
+        linkStyle 4 stroke-width:2px,fill:none,stroke:purple;
+          linkStyle 5 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 6 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 7 stroke-width:2px,fill:none,stroke:orange;
+          linkStyle 8 stroke-width:2px,fill:none,stroke:purple;
+          linkStyle 9 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 10 stroke-width:2px,fill:none,stroke:gray;
+
+
+click A "https://github.com/TeoNogueira/TypeScript-2022/tree/master"
+click 1 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01"
+click 1A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01_compiler"
+click 1B "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01_b"
+click 2 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_02"
+click 2A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_02_b"
+click 3 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_03"
+click 4 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_04"
+click 4A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_04_a"
+click 5 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_05"
+click 5A "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_react"
+click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
+
+ ```
 #
 
 [RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
