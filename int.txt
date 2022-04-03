@@ -1,0 +1,24 @@
+season_01 = Using types
+
+s_01_A = Compiler
+
+S_01_B = Typescript news Rec
+
+season_02 = USANDO CLASSES PARA CRIAR OBJETOS
+
+season_02_A = módulos e Namespaces
+
+season_3 = interfaces + generics + decorators
+
+-------------------x---------graph-------bottom--------------
+
+season_4 = Usando a biblioteca JS com TypeScript
+
+season_4_A = Integração ts gulp
+
+
+Season_05 = ts webpack
+
+Season_05_A = React
+
+Season_05_B = VueJs
