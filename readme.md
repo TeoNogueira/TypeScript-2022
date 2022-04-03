@@ -102,7 +102,6 @@ click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 
  ```
 
-
 #
 
 [RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
