@@ -15,7 +15,7 @@
 
 
 
-  Neste guia você aprenderá de forma simples através dos códigos já postados nas branches a trabalhar com o typescript.  Este superconjunto tem por objetivo organizar melhor o seu código trazendo o conceito de `tipagem forte`, o typescript tem sido muito utilizado por diversos desenvolvedores que utilizam a linguagem de programação javascript.
+  Neste guia você aprenderá de forma simples através dos códigos já postados nas branches a trabalhar com o typescript.  Este superconjunto tem por objetivo organizar melhor o seu código trazendo o conceito de `tipagem forte`, o typescript tem sido muito utilizado por diversos desenvolvedores que estão ligados a linguagem de programação javascript.
 Para mais informações sobre `TS`acesse a documentação: [link_ts].
   
 
