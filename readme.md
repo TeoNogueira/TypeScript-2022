@@ -108,6 +108,16 @@ A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Season|5(S_05)
 
 
 click 1 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01"
+click 1A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01_compiler"
+click 1B "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01_b"
+click 2 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_02"
+click 2A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_02_b"
+click 3 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_03"
+click 4 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_04"
+click 4A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_04_a"
+click 5 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_05"
+click 5A "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_react"
+click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 
  ```
 
