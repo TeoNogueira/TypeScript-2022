@@ -50,6 +50,16 @@ use `-g` para instalar de forma global.
 
 [Typescript]:https://www.npmjs.com/package/typescript
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#006b69', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9', 'primaryTextColor': 'white'}}}%%
+
+graph LR
+
+id1>Clique Abaixo no mapa]
+
+```
+
   ```mermaid
 
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#285570', 'primaryTextColor': 'white', 'lineColor': '#D4EFDF'}}}%%
@@ -108,4 +118,4 @@ click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 [Teonogueira]: https://github.com/postcss/sugarss
 [Package Control]: https://packagecontrol.io/
 
-## <div align="center">`Adicione esse repositório na sua lista de favoritos!`</div>
+
