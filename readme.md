@@ -102,4 +102,10 @@ click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 [Teonogueira]: https://github.com/postcss/sugarss
 [Package Control]: https://packagecontrol.io/
 
-## <div align="center">`Adicione esse repositório na sua lista de favoritos!`</div>
+
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://www.typescriptlang.org/docs/) 
+
+
+### Development by
+
+Developer /  Autor :    [Teo Nogueira]
