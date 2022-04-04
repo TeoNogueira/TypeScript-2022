@@ -1,6 +1,6 @@
 #  USING TYPES || #branch_01
 <br/><br/>
-<img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
+<img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gifs" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
 
 ## Tutorial typescript iniciante Season_01 `by:@TeoNogueira` [RepoLink].
@@ -39,7 +39,21 @@ use `-g` para instalar de forma global.
 
 <br/>
 
+
 ## Branch Map
+
+
+[RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
+
+[Teonogueira]: http://teonogueira.42web.io/
+
+[Github]: https://github.com/TeoNogueira
+
+[Teo Nogueira]: https://github.com/TeoNogueira
+
+[link_ts]:https://www.typescriptlang.org/docs/
+
+[Typescript]:https://www.npmjs.com/package/typescript
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#006b69', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9', 'primaryTextColor': 'white'}}}%%
@@ -56,7 +70,7 @@ id1>Clique Abaixo no mapa]
 
 flowchart LR;
 
- 1:::someclass
+ 5A:::someclass
     classDef someclass fill:#bd492e;
     
 1(Season_01) --> 1A(Compiler_1A) 
@@ -104,9 +118,10 @@ click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 
 #
 
-[RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
-[Typescript]: https://www.npmjs.com/package/typescript
-[Teonogueira]: https://github.com/postcss/sugarss
-[Package Control]: https://packagecontrol.io/
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://www.typescriptlang.org/docs/) 
 
-## <div align="center">`Adicione esse repositório na sua lista de favoritos!`</div>
+
+
+### Development by
+
+Developer /  Autor :    [Teo Nogueira]
