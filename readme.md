@@ -1,13 +1,13 @@
-#  NAMESPACE | #SEASON_2_A
+#  NAMESPACE | #SEASON 2A
 <br/><br/>
-<img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif" title="Using types - Typescript 2022" align="right" width="95" height="95">
+<img src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gifs" title="Using types - Typescript 2022" align="right" width="95" height="95">
 
+# Página em construção
 
-## Tutorial typescript iniciante Season_01 `by:@TeoNogueira` [RepoLink].
+## Tutorial typescript iniciante Season_02A `by:@TeoNogueira` [RepoLink].
 <br/><br/>
 ### Aprenda de forma dinâmica os primeiros passos.
 
-*  Season_1:  `Numéricos`, `booleanos`, `strings`, funcões como `tipos`, `enums`, tipo `"Never"`, `objetos` e `tipos`, `desafios`, transformar `js` em `ts`, tipo `"NULL"`, `Union` `Types`, definindo tipos personalizados `(Alias)`.
 
 <br/><br/>
 
