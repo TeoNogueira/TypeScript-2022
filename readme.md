@@ -70,7 +70,7 @@ id1>Clique Abaixo no mapa]
 
 flowchart LR;
 
- 5A:::someclass
+ 1:::someclass
     classDef someclass fill:#bd492e;
     
 1(Season_01) --> 1A(Compiler_1A) 
