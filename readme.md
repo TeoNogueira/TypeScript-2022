@@ -69,6 +69,15 @@ use `-g` para instalar de forma global.
 
 [Typescript]:https://www.npmjs.com/package/typescript
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#006b69', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9', 'primaryTextColor': 'white'}}}%%
+
+graph LR
+
+id1>Clique Abaixo no mapa]
+
+```
+
   ```mermaid
 
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#285570', 'primaryTextColor': 'white', 'lineColor': '#D4EFDF'}}}%%
