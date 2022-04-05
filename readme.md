@@ -7,8 +7,7 @@
 <br/><br/>
 ### Vamos abordar sobre compilador.
 
-
-# Text under construction 👷‍♂🧾 ....
+Veja alguns exemplos de como compilar o seu código, deixei alguns arquivos dentro da pasta compiler nessa branch. Coloquei coisas importantes como: `noEmitOnError`, `dirOutPut`, `outPutFile`, `sourceMap`, e`noImplictAny`. Para saber mais sobre compilador em typescript [clique aqui].
 
 <br/><br/>
 
@@ -108,5 +107,5 @@ click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 [Typescript]: https://www.npmjs.com/package/typescript
 [Teonogueira]: https://github.com/postcss/sugarss
 [Package Control]: https://packagecontrol.io/
-
+[clique aqui]: https://www.typescriptlang.org/docs/handbook/compiler-options.html 
 ## <div align="center">`Adicione esse repositório na sua lista de favoritos!`</div>
