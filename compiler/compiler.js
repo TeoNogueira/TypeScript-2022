@@ -10,5 +10,5 @@ console.log(channel);
 /// erro existente para evitar esse tipo de erro você pode não compilar o arquivo, abra o tsconfig.json e crie uma propriedade dentro do  "compilerOptions":{}  chamada: "noEmitOnError" : true, 
 //"compilerOptions":{
 ///"noEmitOnError" : true, 
-///}
+/// };
 /// IMPORTANTE: FAÇA OS TESTS DENTRO DE UM HTML LINKADO O ARQUIVO compiler.js
