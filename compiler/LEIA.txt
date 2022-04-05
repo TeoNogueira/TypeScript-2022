@@ -20,3 +20,5 @@ se você observar o arquivo gerado em js ele utiliza uma modelagem antiga do jav
 habilitando o "sourceMap": true, dentro do arquivo tsconfig.json => gera um mapa a partir das linhas do browser vindo do seu arquivo de origem.
 
 // Logo após o sourceMap habilitado >>> salve uma alteração dentro de qualquer arquivo e veja o mapa sendo gerado.
+
+// importante vê o sourceMap pois te ajudará a debbugar uma aplicação.
