@@ -1,4 +1,4 @@
-const ar = (a: string, b: string): string => `${a}` + b // retorno implícito não precisa usar a palavra return.
+const ar = (a: string, b: string): string => `${a}` + b // retorno implícito não precisa digitar a palavra return.
 
 const ar2 = (entradaParaTitulo:string):string =>  {
 

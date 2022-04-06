@@ -56,15 +56,11 @@ list.what()
 //  otherList.printWhat()
 
 
-
-
-
-
  //// Arrow Function + THIS
 
 
  
- const arrowExemple = {
+ const arExemple = {
 
     water: 'ok',
     bag: true,
@@ -87,10 +83,10 @@ list.what()
  }
 
 
- arrowExemple.exempl()   ///  Result 'Options undefined'
+ arExemple.exempl()   ///  Result 'Options undefined'
  
 
- // Isso acontece por causa do this quando é referenciado dentro de uma arrow function  global, pois ele herda o escopo que arrow function foi declarada através do objeto arrowExemplo que está no escopo global. É importante ter muito cuidado quando usar o this com arrow functions, é preferível evitar muitas vezes.
+ // Isso acontece por causa do this quando é referenciado dentro de uma arrow function  global, pois ele herda o escopo que arrow function foi declarada através do objeto arExemple que está no escopo global. É importante ter muito cuidado quando usar o this com arrow functions, é preferível evitar muitas vezes.
 
 
 
