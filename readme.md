@@ -138,6 +138,6 @@ click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
 
 ### Development by
 
-Developer /  Autor :    [Teo Nogueira]
+Developer /  Author :    [Teo Nogueira]
 
 
