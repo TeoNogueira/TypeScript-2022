@@ -2,19 +2,19 @@
 let robotChat:any= {
 
     putMessage: ''
+
 };
 
 /////
 
 let robo:any = robotChat.putMessage
 
-let message = '' 
+let message:string = '' 
 
 message = 'Boa tarde'
 
 
 if(message === 'Boa tarde') {
-
 
     robo = 'Como vai?'
     console.log(robo);
@@ -23,8 +23,6 @@ if(message === 'Boa tarde') {
 
     robo = `Não te entendo! para mais informações digite help`
 }
-
-
 
 
 ////
@@ -49,15 +47,8 @@ if(message === 'estou com problemas' || message === 'problemas') {
     robo = `Não te entendo! para mais informações digite help`
 }
 
-
 // console.log(robo)...
 
 message = 'help'
 
-
-if(message === 'help') {
-
-    robo = console.log(mapHelp)
-
-}
-
+message === 'help' ? robo = console.log(mapHelp) : 'Não entendi!'
