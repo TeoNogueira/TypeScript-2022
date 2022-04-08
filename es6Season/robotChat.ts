@@ -24,7 +24,6 @@ if(message === 'Boa tarde') {
     robo = `Não te entendo! para mais informações digite help`
 }
 
-
 ////
 
 let msHelp = `Como perguntar?`
@@ -38,9 +37,13 @@ let help = [
 
 const mapHelp = help.map(item => item);
 
+////
+
+
 if(message === 'estou com problemas' || message === 'problemas') {
 
     robo = 'Okay! você pode me informar qual o seu problema?'
+
 
 } else {
 
