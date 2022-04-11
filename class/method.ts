@@ -1,15 +1,19 @@
 class PriceAll {
-// public methods
-constructor(public nome: string, public price: number, public disc: number = 0 ) {
 
-}
+            /////////////////
+            //public methods/
+            /////////////////
+
+constructor(public nome: string, public price: number, public disc: number = 0) {
+
+};
 
 public all(): string {
 
     return `${this.nome} value $${this.price} (${this.disc * 50})% offer`
-}
+};
 
-}
+};
 
 const bike = new PriceAll('Bike RunnerDream', 1.200);
 bike.disc = 0.05
@@ -41,8 +45,25 @@ class Fanny {
 
         return this.rangeRopeActual
     }
+
+    public rangeGo(): number {
+
+        return this.rangeBack(100)
+    }
+
+    public rangeFromInit():number {
+
+        return this.rangeBack(-90)
+    }
 }
 
+
+const fnCaracter = new Fanny('Fanny', 'Assassin', 230);
+
+Array(30).fill(0).forEach(() => fnCaracter.rangeGo());
+
+console.log(fnCaracter.rangeGo());
+console.log(fnCaracter.rangeFromInit());
 
 
 
