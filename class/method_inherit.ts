@@ -66,4 +66,29 @@ console.log(fnCaracter.rangeGo());
 console.log(fnCaracter.rangeFromInit());
 
 
+//INHERIT
+
+class Onmyouji extends Fanny {
+
+//Important: Private attributes and methods are not passed on by inheritance.
+    // public rangeGo(): number {
+
+    //     return this.rangeBack(92)
+    // }
+
+    // public rangeFromInit():number {
+
+    //     return this.rangeBack(-92)
+    // }
+
+}
+
+
+const kgRange = new Onmyouji('Kagura', 'Magic', 95)
+
+console.log(`${kgRange.typePerson} ${kgRange.skill}`);
+
+console.log(`${kgRange.rangeGo()}`)
+console.log(`${kgRange.rangeFromInit()}`)
+
 
