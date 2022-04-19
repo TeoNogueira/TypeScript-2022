@@ -1,0 +1,6 @@
+Important: Private attributes and methods are not passed on by inheritance.
+
+
+protect << inherit << no visible in inherit << visible in class 
+
+public << inherit << visible all <<
