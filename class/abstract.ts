@@ -1,9 +1,4 @@
-
-
 // console.log(new Dmx())
-
-
-
 
 abstract class SerialNumber {
 
