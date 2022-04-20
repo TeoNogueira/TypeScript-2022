@@ -14,8 +14,7 @@ namespace Myscope {
         return base * height
     
     }
-    
-
+   
 }
 
 
