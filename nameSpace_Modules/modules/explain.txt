@@ -1,0 +1,5 @@
+O sistema de módulos usado pelo tsconfig é o "commonjs" para que o pacote systemjs instalado possa ler a criação dos módulos diferente do ES6.
+
+Favor não alterar a flag commonjs :D!
+
+/// Para resolver o PROBLEMA >>> do module.exports do node dando erro no module ou no require você precisa instalar um pacote adicional: npm install -s @types/node    |||||| Soluciona os tipos pra o NODE. |||||

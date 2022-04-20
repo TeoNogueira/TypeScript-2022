@@ -1,11 +1,11 @@
     namespace WorldSpace {
 
      export namespace Myscope {
-        const PI = 3.14
+        const K1 = 3.25
     
      export function girth(r: number): number {
         
-            return PI * r
+            return K1 * r
         }
         
      export function girthRetan(base: number, height: number): number {

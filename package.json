@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/TeoNogueira/TypeScript-2022#readme",
   "dependencies": {
+    "@types/node": "^17.0.25",
     "i": "^0.3.7",
     "systemjs": "^0.21.5"
   }
