@@ -67,7 +67,7 @@ id1>Clique Abaixo no mapa]
 flowchart LR;
 
  3:::someclass
-    classDef someclass fill:#bd492e;
+    classDef someclass fill:#7d5b9c;
     
 1(Season_01) --> 1A(Compiler_1A) 
 1(Season_01) --> 1B(Ts_Ecmascript_News_1B) 
