@@ -17,3 +17,12 @@ function kaelMore<EG>(O: EG): EG {
 
 console.log(kaelMore<string>('Hello')) // TYPE REAL
 console.log(kaelMore({name: 'Elune' + ' | (ref: Warcraft III).', skillsType: Number(magic), age: 322}))
+
+
+
+///// Generic Type 
+type Ktype = <T>(data: T) => T
+const kaelInvoke: Ktype = kaelMore
+
+
+console.log(kaelInvoke<string>('\nType string\n'))

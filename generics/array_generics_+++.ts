@@ -13,7 +13,7 @@ console.log(arrNumber)
 function put<T>(prop: T[]) {
 
 prop.forEach(el => console.log(el))
-
+// map or filter 
 }
 
 put(['55', 55, true]) // does not specify
@@ -31,5 +31,4 @@ type Org = {name: string, serial: number}
 put<Org>([{
 name: 'Hello', serial: 5422332244242
 }]) 
-
 

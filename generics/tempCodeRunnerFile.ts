@@ -1,1 +1,1 @@
-arrNumber.push('59')
+forEach
