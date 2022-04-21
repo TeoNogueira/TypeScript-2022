@@ -16,4 +16,4 @@ function kaelMore<EG>(O: EG): EG {
 }
 
 console.log(kaelMore<string>('Hello')) // TYPE REAL
-console.log(kaelMore({name: 'Elune' + ' be Praise! | (ref: Warcraft III).', skillsType: Number(magic), age: 322}))
+console.log(kaelMore({name: 'Elune' + ' | (ref: Warcraft III).', skillsType: Number(magic), age: 322}))
