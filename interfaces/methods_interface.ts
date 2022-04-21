@@ -17,6 +17,7 @@ const avatar = {
 }
 }
 
+/// main func
 const msg = (avatar: Suppa) => {
 
 console.log('Hello ' + avatar.nickName)
