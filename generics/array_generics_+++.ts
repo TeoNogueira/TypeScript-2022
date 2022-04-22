@@ -30,5 +30,5 @@ type Org = {name: string, serial: number}
 
 put<Org>([{
 name: 'Hello', serial: 5422332244242
-}]) 
+}]) // I like it that way!
 
