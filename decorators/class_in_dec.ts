@@ -1,6 +1,5 @@
 // DECORATOR / CLASS
 
-
 @fromDeepClasss
 class Conglom {
 
@@ -29,7 +28,6 @@ return class extends build {
 }
     }
 
-
-
+    
 new Conglom() // loaded... Before... Welcome Decorator... After...
 new Conglom()
