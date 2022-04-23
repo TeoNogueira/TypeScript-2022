@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/TeoNogueira/TypeScript-2022/issues"
   },
-  "homepage": "https://github.com/TeoNogueira/TypeScript-2022#readme"
+  "homepage": "https://github.com/TeoNogueira/TypeScript-2022#readme",
+  "devDependencies": {
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
 }

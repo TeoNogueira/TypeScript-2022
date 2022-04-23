@@ -7,6 +7,10 @@ tsc --init <<< create ts.config
 
  Into folder gulp execute: npm run build /// attention: run after building js, clearDist, genJs functions. Also after importing from gulp the series and parallel
 
- ////////////////////////////////////////////////////////////////
+ ////////
 
  npm i --save-dev jquery @types/jquery
+
+ ///////////
+
+   npm i --save-dev gulp-rename gulp-uglify <<
