@@ -1,0 +1,5 @@
+npm init -y
+
+tsc --init
+
+npm i -D webpack webpack-cli typescript ts-loader jquery @types/jquery
