@@ -1,0 +1,12 @@
+tsc --init <<< create ts.config 
+
+ npm init -y <<<< create package.json
+
+ npm i --save-dev gulp typescript browserify tsify vinyl-source-stream del
+
+
+ Into folder gulp execute: npm run build /// attention: run after building js, clearDist, genJs functions. Also after importing from gulp the series and parallel
+
+ ////////////////////////////////////////////////////////////////
+
+ npm i --save-dev jquery @types/jquery
