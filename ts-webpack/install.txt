@@ -3,3 +3,16 @@ npm init -y
 tsc --init
 
 npm i -D webpack webpack-cli typescript ts-loader jquery @types/jquery
+
+////////////////////////////////
+
+npm i -D copy-webpack-plugin
+
+
+/////////////////
+SERVIDOR WEBPACK:
+
+npm i -D webpack-dev-server
+
+after>>>>> npm start
+////////////////////
