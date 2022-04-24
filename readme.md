@@ -1,15 +1,13 @@
 
 
-<img  src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gif"  title="Using types - Typescript 2022"  align="right"  width="95"  height="95">
+<img  src="https://github.com/TeoNogueira/TypeScript-2022/blob/season_01/assets/gifs/ts_anima.gifs"  title="Using types - Typescript 2022"  align="right"  width="95"  height="95">
 
-  
+  # Season 5 | TS REACT
  
-## Tutorial typescript iniciante ao avançado #Branch_Master. 
+## Tutorial typescript iniciante ao avançado #Branch_season_5A. 
 ### Aprenda como utilizar essa biblioteca incrível.
 
 ## As páginas estão sendo construídas. 👷‍♂🧾 ....
-
-
 
 
 
@@ -22,12 +20,12 @@ Para mais informações sobre `TS`acesse a documentação: [link_ts].
 
 ### Objetivos:
 * Auxiliar a comunidade e todos aqueles que desejam aprender sobre a biblioteca.
-* 
+
 ### OpenSource:
 * O repositório estará aberto para quem quiser adicionar informações mais aprofundadas o typescript.
 
 
-## Instalação do [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://www.npmjs.com/package/typescript/).
+## Instalação do Typescript.
 
 use `-g` para instalar de forma global.
 
@@ -53,27 +51,88 @@ use `-g` para instalar de forma global.
 #
 
 
+## Branch Map
+
+
 [RepoLink]: https://github.com/TeoNogueira/TypeScript-2022
 
 [Teonogueira]: http://teonogueira.42web.io/
 
 [Github]: https://github.com/TeoNogueira
 
-[link_ts]:https://www.typescriptlang.org/docs/
-  ```mermaid
+[Teo Nogueira]: https://github.com/TeoNogueira
 
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00f7e9', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9'}}}%%
+[link_ts]:https://www.typescriptlang.org/docs/
+
+[Typescript]:https://www.npmjs.com/package/typescript
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#006b69', 'edgeLabelBackground':'#bbdada', 'tertiaryColor': '#dcaab9', 'primaryTextColor': 'white'}}}%%
 
 graph LR
 
-A((Master)) -->|HeadSeason01| 1((Season_01)) --->|Next_Seasons| 4((S_02))---> 5((S_03))
- 1((Season_01)) ---> |YourLocal| 3((Season_01_A))
-   1((Season_01)) ---> |step_2| 2[/S_01_B\]
-
+id1>Clique Abaixo no mapa]
 
 ```
 
+  ```mermaid
 
-## <div align="center">`Adicione esse repositório na sua lista de favoritos!`</div>
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#285570', 'edgeLabelBackground':'#777777', 'tertiaryColor': '#285570', 'primaryTextColor': 'white', 'lineColor': '#D4EFDF'}}}%%
 
-### <div align="right">`@TeoNogueira`</div>
+flowchart LR;
+
+ 5A:::someclass
+    classDef someclass fill:#bd492e;
+    
+1(Season_01) --> 1A(Compiler_1A) 
+1(Season_01) --> 1B(Ts_Ecmascript_News_1B) 
+A((Master)) --> 1((Season_01_using_types)) -->|Next_Season| 2((S_02)) --> |Next_Season| 3((S_03))
+2[Season_02_Class_Object]--> 2A(Mod_nameSpace 2A)
+
+3(Season_03_interfaces_generics_decorators) 
+4((Season_04_lib_Js_Ts)) --> 4A((TS + GULP 4A))
+A((Master)) --> 4((Season_04_lib_Js_Ts)) -->|Next_Season|5(S_05)
+
+
+5(Season_05) --> 5A(TS REACT 5A) 
+5(Season_05_webpack) --> 5B(TS VUEJS 5B)
+
+
+
+     linkStyle 0 stroke-width:2px,fill:none,stroke:blue;
+        linkStyle 1 stroke-width:2px,fill:none,stroke:orange;
+        linkStyle 2 stroke-width:2px,fill:none,stroke:gray;
+        linkStyle 3 stroke-width:2px,fill:none,stroke:purple;
+        linkStyle 4 stroke-width:2px,fill:none,stroke:purple;
+          linkStyle 5 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 6 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 7 stroke-width:2px,fill:none,stroke:orange;
+          linkStyle 8 stroke-width:2px,fill:none,stroke:purple;
+          linkStyle 9 stroke-width:2px,fill:none,stroke:gray;
+          linkStyle 10 stroke-width:2px,fill:none,stroke:gray;
+
+
+click A "https://github.com/TeoNogueira/TypeScript-2022/tree/master"
+click 1 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01"
+click 1A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01_compiler"
+click 1B "https://github.com/TeoNogueira/TypeScript-2022/tree/season_01_b"
+click 2 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_02"
+click 2A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_02_b"
+click 3 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_03"
+click 4 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_04"
+click 4A "https://github.com/TeoNogueira/TypeScript-2022/tree/season_04_a"
+click 5 "https://github.com/TeoNogueira/TypeScript-2022/tree/season_05"
+click 5A "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_react"
+click 5B "https://github.com/TeoNogueira/TypeScript-2022/tree/ts_vueJs"
+
+ ```
+
+#
+
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101)](https://www.typescriptlang.org/docs/) 
+
+
+
+### Development by
+
+Developer /  Autor :    [Teo Nogueira]
