@@ -1,0 +1,7 @@
+1 - yarn create vite my-vue-app --template vue
+
+2 - npm i
+
+3 - yarn run dev
+
+4 - install extension vetur in VSCODE   

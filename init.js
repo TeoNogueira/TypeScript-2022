@@ -1,6 +1,5 @@
 const bot = []
 
-
 function msgBot (ask, reply)  {
 
 
@@ -10,9 +9,7 @@ return bot.push(reply)
 
 }
 
-
 }
-
 
 function recipeValid() {
 
