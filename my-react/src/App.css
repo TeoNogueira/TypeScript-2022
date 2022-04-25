@@ -1,0 +1,19 @@
+.App {
+
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+text-align: center;
+font-size: 3.2rem;
+color: #f1f1f1;
+background: #2a2b29;
+user-select: none;
+
+
+}
+
+.App p:hover {
+
+  cursor: pointer;
+}

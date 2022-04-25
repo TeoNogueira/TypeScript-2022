@@ -1,0 +1,4 @@
+yarn create react-app my-react --template typescript
+
+
+yarn start <<<
