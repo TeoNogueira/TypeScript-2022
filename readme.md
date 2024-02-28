@@ -74,7 +74,7 @@ use `-g` para instalar de forma global.
 
 graph LR
 
-id1>Clique Abaixo no mapa Segurando a tecla CONTROL]
+id1>Clique Abaixo no mapa segurando a tecla CONTROL (Ctrl)]
 
 ```
 
